@@ -1,10 +1,7 @@
-Package: wwmetrics
-Type: Package
-Title: Data on countries for International Business, Economics and Management (wwmetrics stands for world wide metrics)
-Version: 0.1.0
-Author: Laetitia Em - University of Groningen, the Netherlands
-Maintainer: Laetitia Em <emlaet@gmail.com>
-Description: The aim of this package is to gather publicly available (but not always easily accessible or well-known) data in a convenient and tidy way to facilitate empirical studies in the fields of international business, international economics and international management.    It contains data (time-variant or not, bilateral or not) on a diverse set of indicators: 
+# wwmetrics
+Data on countries and country pairs for IB&M
+
+The aim of this package is to gather publicly available (but not always easily accessible or well-known) data in a convenient and tidy way to facilitate empirical studies in the fields of international business, international economics and international management.    It contains data (time-variant or not, bilateral or not) on a diverse set of indicators: 
 - longitudinal administrative distances calculated using the Worldwide Governance Indicators by the World Bank, 
 - country-level data on the big five personality traits to characterize national cultures (both aggregated personality traits and self-stereotypes), 
 - Coface's scores on business climate and country risk,
@@ -25,8 +22,3 @@ Description: The aim of this package is to gather publicly available (but not al
 - bilateral trade,
 - Worldwide Governance Indicators by the World Bank,
 - World Happiness Report.
-Depends: R (>= 2.10)
-License: GPL-3
-Encoding: UTF-8
-LazyData: true
-RoxygenNote: 6.0.1
