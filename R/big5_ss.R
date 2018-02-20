@@ -12,6 +12,7 @@
 #'   \item A1 to A6: A stands for agreeableness. Numeric. Score of the country on the dimensions "agreeableness", defined as "a personality trait manifesting itself in individual behavioral characteristics that are perceived as kind, sympathetic, cooperative, warm, and considerate. In contemporary personality psychology, agreeableness is one of the five major dimensions of personality structure, reflecting individual differences in cooperation and social harmony." (source: {https://en.wikipedia.org/wiki/Agreeableness})
 #'   \item N1 to N6: N stands for neuroticism. Numeric. Score of the country on the dimensions "neuroticism", defined as a tendency to "experience such feelings as anxiety, worry, fear, anger, frustration, envy, jealousy, guilt, depressed mood, and loneliness. People who are neurotic respond worse to stressors and are more likely to interpret ordinary situations as threatening and minor frustrations as hopelessly difficult. They are often self-conscious and shy, and they may have trouble controlling urges and delaying gratification." (source: {https://en.wikipedia.org/wiki/Neuroticism})
 #' }
+#' @source \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800797/pdf/nihms147925.pdf}
 #' @docType data
 #' @keywords Big5, Big Five, Big Five personality traits, McCrae & Terracciano, self-stereotypes, personality
 #' @name big5_ss
