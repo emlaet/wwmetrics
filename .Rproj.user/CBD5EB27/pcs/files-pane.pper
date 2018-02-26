@@ -2,6 +2,10 @@
     "path" : "C:/Users/Astrea04/github/wwmetrics/data",
     "sortOrder" : [
         {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
+        {
             "ascending" : true,
             "columnIndex" : 2
         }
